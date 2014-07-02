@@ -1,0 +1,6 @@
+app_host: https://<%= ENV['APP_HOST'] %>
+search_host: http://<%= ENV['SEARCH_HOST'] %>:8983
+
+driver: selenium
+browser: firefox
+wait_time: 30
