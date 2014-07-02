@@ -1,5 +1,5 @@
-app_host: <%= ENV['APP_HOST'] %>
-search_host: <%= ENV['SEARCH_HOST'] %>
+app_host: <%= ENV['app_host'] %>
+search_host: <%= ENV['app_host'] %>
 
 driver: selenium
 browser: firefox
