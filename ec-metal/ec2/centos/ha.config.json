@@ -40,6 +40,9 @@
         "ebs_optimized": false,
         "instance_type": "m3.medium"
       }
+    },
+    "standalones" : {
+      
     }
   }
 }
